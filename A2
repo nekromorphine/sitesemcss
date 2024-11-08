@@ -1,0 +1,64 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about me ˚ʚ♡ɞ˚</title>
+</head>
+<body>
+    <div align="center">
+        <table>
+            <tr>
+                <td align="center">
+                    <h1>Explorando o desconhecido com gatos e Taylor Swift ˚ʚ♡ɞ˚</h1>
+                </td>
+            </tr>
+        </table>
+        <br>
+
+        <table>
+            <tr>
+                <td>
+                    <h2>❀ Curiosidades iniciais</h2>
+                    <p>Olá, meu nome é Amanda.<br>
+                        Começando com curiosidades básicas: tenho 20 anos de idade, e sou acadêmica de Tecnologia de Sistemas para Internet na UTFPR.<br>
+                        Gosto de tecnologia por vários motivos, mas minha maior motivação era ser a V de Vingança...<br>
+                        Com 15 anos fiz meu primeiro robô de Arduíno para exposição e, desde então, tenho gostado muito da área, por mais que eu tenha programado no temível C.<br>
+                        Hoje, pretendo seguir na área de segurança da informação, mais especificamente como hacker ética.
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <hr /> 
+
+        <table>
+            <tr>
+                <td>
+                    <h2>❀ Coisas e animais preferidos</h2>
+                    <p>
+                        1. Gatinhos <img src="https://cdn.pixabay.com/animation/2023/05/18/14/00/14-00-46-314_512.gif"  <br>
+                        2. Taylor Swift <img src="https://i.pinimg.com/originals/3b/48/33/3b4833afee1cfdd4d84099ed1d81371f.gif" <br>
+                        3. Programação <img src="https://i.pinimg.com/originals/df/70/04/df70049d715efe0ea0d5a27a7c565490.gif" <br>
+                        4. Cozinhar (às vezes, sem ninguém por perto) <img src="https://media.tenor.com/8jBGXpzM0PAAAAAi/hampter-sad.gif"
+                    </p>
+                </td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <table>
+            <tr>
+                <td>
+                    <h2>❀ Agora... um poema meu preferido</h2>
+                    <p>
+                        Tudo na vida pode ser escrito se você tiver a coragem de fazê-lo e a imaginação para improvisar. <br>
+                        O pior inimigo da criatividade é a insegurança. <br><br>
+                        <strong>Sylvia Plath</strong>
+                    </p>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>
